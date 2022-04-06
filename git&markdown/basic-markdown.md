@@ -18,7 +18,7 @@
 
 ![grave, 작은 따옴표](https://github.com/upqnu/TIL/blob/main/_image/grave.jpg)
   
-#### 2. 줄 바꿈
+#### 2. 줄 바꿈 (개행)
 
 마크다운 작성할 때 `enter`를 쳐서 줄을 바꿔도 실제로 줄이 바뀌지 않음.  
 이럴 때는 문장의 마지막에 `space` 키를 2번 치면 된다.  
