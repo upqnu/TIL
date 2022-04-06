@@ -16,7 +16,7 @@
 코드 블록을 표시하기 위해 쓰이는 **`** 는 ~(물결표) 아래에 있는 **grave** 라고 함.  
 (작은 따옴표와 혼동하지 말 것.)
 
-(비교 이미지)
+![grave, 작은 따옴표](https://github.com/upqnu/TIL/blob/main/_image/grave.jpg)
   
 #### 2. 줄 바꿈
 
