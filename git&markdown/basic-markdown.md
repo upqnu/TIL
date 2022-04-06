@@ -4,7 +4,6 @@
 
 * [마크다운(Markdown) 6분 순삭 정리 + 깃허브 리드미(ReadMe) 파일 작성 팁 ⭐️](https://youtu.be/kMEb_BzyUqk) (by "드림코딩 by 엘리")
 * [Markdown 문법 10분 뽀개기](https://youtu.be/eHUVvQ2AHh0) (by Code with Joyce)
-  
 * [[Git #3]마크다운(Markdown) 사용법, 문법 정리 Readme.md 파일 작성](https://youtu.be/dUbp9wAy178) (by 아보느 Aboneu)
 * [Academic Writing in Markdown](https://youtu.be/hpAJMSS8pvs) (by Nicholas Cifuentes-Goodbody)
 
